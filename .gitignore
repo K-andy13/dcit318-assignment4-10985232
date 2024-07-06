@@ -1,0 +1,26 @@
+# Ignore Visual Studio temporary files, build results, and
+# Include directory-based ignores (if any) at the bottom
+*.log
+*.obj
+*.bin
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.cache
+*.aps
+*.ncb
+*.sdf
+*.opensdf
+*.suo
+*.user
+*.rdl.data
+*.rdl.data.cache
+*.sln.docstates
+*.orig
+*.tlog
+
+# Ignore directories
+bin/
+obj/
+.vs/
