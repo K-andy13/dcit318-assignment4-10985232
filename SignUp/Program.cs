@@ -16,7 +16,7 @@ namespace SignUp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Address());
+            Application.Run(new SignUp());
         }
     }
 }
